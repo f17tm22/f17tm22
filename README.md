@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://f17tm22.github.io"><img src="https://img.shields.io/badge/🌐_个人主页-f17tm22.github.io-165DFF?style=flat-square" /></a>
   <a href="https://space.bilibili.com/104686588"><img src="https://img.shields.io/badge/📺_B站-MerinoMo-FB7299?style=flat-square&logo=bilibili" /></a>
-  <a href="mailto:202330332231@mail.scut.edu.cn"><img src="https://img.shields.io/badge/📧_Email-merinomo@outlook.com-EA4335?style=flat-square" /></a>
+  <a href="mailto:202330332231@mail.scut.edu.cn"><img src="https://img.shields.io/badge/📧_Email-202330332231@mail.scut.edu.cn-EA4335?style=flat-square" /></a>
 </p>
 
 ---
@@ -41,7 +41,37 @@
 
 ---
 
-## 🚀 精选项目
+## 🌟 重点推荐
+
+> ### [NIDA 智能审图系统](https://github.com/f17tm22/nida-ci-cd)
+> 
+> B/S 架构工程项目智能审图平台，面向结构工程师的协作工具。
+> 
+> **核心功能**：AI 辅助审查 · SSO 单点登录 · WebSocket 实时推送 · 项目全生命周期管理 · 桌面端 (Tauri)  
+> **技术架构**：`FastAPI` + `Vue 3` + `Ant Design` + `Tauri` + `SQLite`  
+> **状态**：🟢 持续迭代中 | 10 个仓库中最活跃项目
+>
+> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+> <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" />
+> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white" />
+
+> ### [SDF → STL 模型生成处理系统](https://github.com/f17tm22/SDF_Field2STL_File)
+> 
+> 基于有向距离场 (SDF) 的三维模型生成与导出工具，将隐式曲面转为 STL 网格。
+> 
+> **核心功能**：SDF 隐式曲面建模 · Marching Cubes 等值面提取 · STL 网格导出 · 自定义几何体  
+> **技术亮点**：纯 Python 实现 Marching Cubes 算法，支持任意 SDF 表达式输入  
+> **🏆 已获软件著作权**：2025SR1166478
+>
+> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+> <img src="https://img.shields.io/badge/📜_软著-2025SR1166478-important?style=flat-square" />
+
+---
+
+## 🚀 更多项目
 
 ### 🏗️ 结构工程 & FEM
 
@@ -60,13 +90,11 @@
 |------|------|------|
 | **[钢管钢筋计数](https://github.com/f17tm22/CountSteelPipes)** | 基于 YOLOv10s 的工地钢管/钢筋数量实时检测，泛化优化适配不良工况 | YOLOv10s + OpenCV |
 | **古建筑瑕疵检测** | 古建筑安全调研，YOLOv5 识别古建筑瑕疵，准确率 ~90% | YOLOv5 |
-| **[SDF → STL](https://github.com/f17tm22/SDF_Field2STL_File)** | SDF 模型生成处理系统，获软件著作权 (2025SR1166478) | Python + Marching Cubes |
 
 ### 🌐 全栈开发
 
 | 项目 | 说明 | 技术 |
 |------|------|------|
-| **[NIDA 智能审图系统](https://github.com/f17tm22/nida-ci-cd)** | B/S 架构工程项目审图平台，含 AI 审查、SSO 登录、WebSocket 实时推送 | FastAPI + Vue 3 + Tauri |
 | **DeepSeek 面板** | AI 对话面板，rich 终端 UI | Python + rich |
 | **MiMo 面板** | 小米 MiMo API 对话面板 | Python + rich + requests |
 | **[个人主页](https://github.com/f17tm22/f17tm22.github.io)** | GitHub Pages 个人站点，含抗震分析系统、混凝土等级表等在线工具 | HTML/CSS + Vue + ECharts |
@@ -78,7 +106,6 @@
 | 🥈 NOIP 广东赛区普及组复赛二等奖 (C++) | 2018 |
 | 🥈 华南理工大学结构竞赛校赛二等奖 | 2023 |
 | 🥇 深圳杯数学建模挑战赛广东赛区 A 题一等奖 | 2024 |
-| 📜 软件著作权 — SDF 模型生成处理系统 V1.0 | 2025 |
 
 ---
 
