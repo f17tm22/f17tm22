@@ -49,7 +49,7 @@
 > 
 > **核心功能**：AI 辅助审查 · SSO 单点登录 · WebSocket 实时推送 · 项目全生命周期管理 · 桌面端 (Tauri)  
 > **技术架构**：`FastAPI` + `Vue 3` + `Ant Design` + `Tauri` + `SQLite`  
-> **状态**：🟢 持续迭代中 | 10 个仓库中最活跃项目
+> **状态**：🟢 持续迭代中
 >
 > <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 > <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -61,12 +61,11 @@
 > 
 > 基于有向距离场 (SDF) 的三维模型生成与导出工具，将隐式曲面转为 STL 网格。
 > 
-> **核心功能**：SDF 隐式曲面建模 · Marching Cubes 等值面提取 · STL 网格导出 · 自定义几何体  
-> **技术亮点**：纯 Python 实现 Marching Cubes 算法，支持任意 SDF 表达式输入  
+> **核心功能**：SDF 隐式曲面建模 · Marching Cubes 等值面提取 · STL 网格导出  
 > **🏆 已获软件著作权**：2025SR1166478
 >
-> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 > <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 > <img src="https://img.shields.io/badge/📜_软著-2025SR1166478-important?style=flat-square" />
 
 ---
