@@ -5,8 +5,7 @@
 <p align="center">
   <a href="https://f17tm22.github.io"><img src="https://img.shields.io/badge/🌐_个人主页-f17tm22.github.io-165DFF?style=flat-square" /></a>
   <a href="https://space.bilibili.com/104686588"><img src="https://img.shields.io/badge/📺_B站-MerinoMo-FB7299?style=flat-square&logo=bilibili" /></a>
-  <a href="https://orcid.org/0009-0009-7723-7827"><img src="https://img.shields.io/badge/🔬_ORCID-0009--0009--7723--7827-A6CE39?style=flat-square&logo=orcid" /></a>
-  <a href="mailto:merinomo@outlook.com"><img src="https://img.shields.io/badge/📧_Email-merinomo@outlook.com-EA4335?style=flat-square" /></a>
+  <a href="mailto:202330332231@mail.scut.edu.cn"><img src="https://img.shields.io/badge/📧_Email-merinomo@outlook.com-EA4335?style=flat-square" /></a>
 </p>
 
 ---
