@@ -4,6 +4,8 @@
 
 <p align="center">
   <a href="https://f17tm22.github.io"><img src="https://img.shields.io/badge/🌐_个人主页-f17tm22.github.io-165DFF?style=flat-square" /></a>
+  <a href="https://space.bilibili.com/104686588"><img src="https://img.shields.io/badge/📺_B站-MerinoMo-FB7299?style=flat-square&logo=bilibili" /></a>
+  <a href="https://orcid.org/0009-0009-7723-7827"><img src="https://img.shields.io/badge/🔬_ORCID-0009--0009--7723--7827-A6CE39?style=flat-square&logo=orcid" /></a>
   <a href="mailto:merinomo@outlook.com"><img src="https://img.shields.io/badge/📧_Email-merinomo@outlook.com-EA4335?style=flat-square" /></a>
 </p>
 
@@ -81,12 +83,32 @@
 
 ---
 
-## 📊 GitHub 统计
+## 📂 仓库导航
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=f17tm22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f17tm22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<table>
+<tr>
+<td width="50%">
+
+**🏗️ 工程计算**
+- [concrete_section_analysis](https://github.com/f17tm22/concrete_section_analysis) — 混凝土截面分析
+- [plot_mohr-s_circle](https://github.com/f17tm22/plot_mohr-s_circle) — 摩尔应力圆
+- [SDF_Field2STL_File](https://github.com/f17tm22/SDF_Field2STL_File) — SDF 转 STL
+
+**🤖 深度学习**
+- [CountSteelPipes](https://github.com/f17tm22/CountSteelPipes) — 钢管钢筋计数
+
+</td>
+<td width="50%">
+
+**🌐 全栈 & 其他**
+- [nida-ci-cd](https://github.com/f17tm22/nida-ci-cd) — NIDA 智能审图
+- [f17tm22.github.io](https://github.com/f17tm22/f17tm22.github.io) — 个人主页
+- [Merino](https://github.com/f17tm22/Merino) — 个人仓库
+- [temp](https://github.com/f17tm22/temp) — 实验/临时项目
+
+</td>
+</tr>
+</table>
 
 ---
 
