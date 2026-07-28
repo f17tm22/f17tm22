@@ -1,0 +1,95 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=165DFF&center=true&vCenter=true&width=500&lines=%E8%8E%AB%E5%AD%90%E5%81%A5+%7C+Merino+Mo;%F0%9F%8F%97%EF%B8%8F+%E5%9C%9F%E6%9C%A8%E7%BC%96%E7%A8%8B%E5%B0%8F%E7%AB%99;%E7%94%A8%E4%BB%A3%E7%A0%81%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%96%E7%95%8C" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://f17tm22.github.io"><img src="https://img.shields.io/badge/🌐_个人主页-f17tm22.github.io-165DFF?style=flat-square" /></a>
+  <a href="mailto:merinomo@outlook.com"><img src="https://img.shields.io/badge/📧_Email-merinomo@outlook.com-EA4335?style=flat-square" /></a>
+</p>
+
+---
+
+## 👋 关于我
+
+华南理工大学 **土木与交通学院** 本科生，二次元技术宅 🏗️🌸
+
+- 🏫 土木工程专业，均分 85，英语六级 529
+- 💻 自学编程多年，从 C++/NOIP 起步，到 Python 科学计算、前端全栈
+- 🔬 热爱将编程技术应用于工程问题：结构分析、数值模拟、深度学习、自动化工具
+- 🎯 当前专注于 **有限元分析 (FEM)** + **工程软件开发**
+
+---
+
+## 🛠️ 技术栈
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+<p align="center">
+  <b>工程计算</b>：NumPy · SciPy · FreeCAD API · CalculiX · matplotlib · ezdxf<br>
+  <b>深度学习</b>：YOLOv5 / YOLOv10 · OpenCV<br>
+  <b>前端</b>：Ant Design · Vite · ECharts · Konva.js · GSAP<br>
+  <b>工具链</b>：Git · GitHub Actions · CMake · VS Code
+</p>
+
+---
+
+## 🚀 精选项目
+
+### 🏗️ 结构工程 & FEM
+
+| 项目 | 说明 | 技术 |
+|------|------|------|
+| **斜拉桥 FEM 分析** | 斜拉桥有限元静力分析，含索力优化与挠度校验 (≤ span/400) | Python + NumPy + matplotlib |
+| **钢牛腿 FEM** | 钢结构牛腿节点精细有限元分析，von Mises 应力校核 (< 235 MPa S235) | FreeCAD + CalculiX |
+| **悬臂梁 FEM** | 悬臂梁结构验证模型，端部位移对比解析解 `PL³/(3EI)` ±5% | FreeCAD + CalculiX |
+| **梯形屋架分析** | 梯形钢屋架结构设计与文档 | 结构力学计算 |
+| **[混凝土截面分析](https://github.com/f17tm22/concrete_section_analysis)** | 钢筋混凝土任意对称截面全过程分析软件，自定义截面参数 → 本构关系 → 承载力计算 | Python + JSON |
+| **[摩尔圆绘制](https://github.com/f17tm22/plot_mohr-s_circle)** | 摩尔应力圆交互绘制工具 | Python + matplotlib |
+
+### 🤖 深度学习 & CV
+
+| 项目 | 说明 | 技术 |
+|------|------|------|
+| **[钢管钢筋计数](https://github.com/f17tm22/CountSteelPipes)** | 基于 YOLOv10s 的工地钢管/钢筋数量实时检测，泛化优化适配不良工况 | YOLOv10s + OpenCV |
+| **古建筑瑕疵检测** | 古建筑安全调研，YOLOv5 识别古建筑瑕疵，准确率 ~90% | YOLOv5 |
+| **[SDF → STL](https://github.com/f17tm22/SDF_Field2STL_File)** | SDF 模型生成处理系统，获软件著作权 (2025SR1166478) | Python + Marching Cubes |
+
+### 🌐 全栈开发
+
+| 项目 | 说明 | 技术 |
+|------|------|------|
+| **[NIDA 智能审图系统](https://github.com/f17tm22/nida-ci-cd)** | B/S 架构工程项目审图平台，含 AI 审查、SSO 登录、WebSocket 实时推送 | FastAPI + Vue 3 + Tauri |
+| **DeepSeek 面板** | AI 对话面板，rich 终端 UI | Python + rich |
+| **MiMo 面板** | 小米 MiMo API 对话面板 | Python + rich + requests |
+| **[个人主页](https://github.com/f17tm22/f17tm22.github.io)** | GitHub Pages 个人站点，含抗震分析系统、混凝土等级表等在线工具 | HTML/CSS + Vue + ECharts |
+
+### 🎖️ 竞赛 & 荣誉
+
+| 奖项 | 时间 |
+|------|------|
+| 🥈 NOIP 广东赛区普及组复赛二等奖 (C++) | 2018 |
+| 🥈 华南理工大学结构竞赛校赛二等奖 | 2023 |
+| 🥇 深圳杯数学建模挑战赛广东赛区 A 题一等奖 | 2024 |
+| 📜 软件著作权 — SDF 模型生成处理系统 V1.0 | 2025 |
+
+---
+
+## 📊 GitHub 统计
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=f17tm22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f17tm22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+<p align="center">
+  <i>May all the beauty be blessed. 🌸</i>
+</p>
