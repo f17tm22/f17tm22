@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ 技术栈
+## 💼 实习经历\n\n**广州宁达软件有限公司｜全栈开发工程师（生产实习）** · 2026.07\n\n参与 **NIDA 智能建造 AI 辅助平台** 开发，面向结构分析软件建设从测试、审核到修复验证的自动化工程流程。\n\n- 参与 FastAPI + React 全栈平台迭代，完善多角色权限、配置驱动的多环境运行和 OAuth2 / OIDC / Keycloak SSO。\n- 设计安全扫描与分层防御能力，围绕边界输入补充自动化测试；参与 AI 审核、Harness 修复和 CI/CD 闭环验证。\n- 从零构建 NidaTauri v5 桌面客户端（Tauri v2 + Rust + React + TypeScript），实现本地文件管理、流式 LLM 对话、任务管理和中英双语界面。\n- 三周累计参与后端、前端与 Rust 代码开发，完善 350+ 个测试用例并沉淀 20+ 份技术文档。\n\n## 🛠️ 技术栈
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -36,7 +36,7 @@
   <b>工程计算</b>：NumPy · SciPy · FreeCAD API · CalculiX · matplotlib · ezdxf<br>
   <b>深度学习</b>：YOLOv5 / YOLOv10 · OpenCV<br>
   <b>前端</b>：Ant Design · Vite · ECharts · Konva.js · GSAP<br>
-  <b>工具链</b>：Git · GitHub Actions · CMake · VS Code
+  <b>后端与认证</b>：FastAPI · SQLAlchemy · OAuth2 / OIDC · Keycloak · WebSocket / SSE<br>\n  <b>桌面与工程化</b>：Tauri v2 · Rust · pytest · Git · GitHub Actions · CMake · VS Code
 </p>
 
 ---
