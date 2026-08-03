@@ -55,7 +55,7 @@
 
 ## 🌟 重点推荐
 
-> ### [NIDA 智能审图系统](https://github.com/f17tm22/nida-ci-cd)
+> ### [NIDA 智能审核系统](https://github.com/f17tm22/nida-ci-cd)
 > 
 > B/S 架构工程项目智能审图平台，面向结构工程师的协作工具。
 > 
